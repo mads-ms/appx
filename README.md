@@ -1,4 +1,0 @@
-appx
-====
-
-medical app x
